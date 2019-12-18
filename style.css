@@ -1,0 +1,8 @@
+#todoList {
+    background-color: aqua;
+    padding: 15px;
+}
+
+#todoList li {
+    padding: 20px;
+}
